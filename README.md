@@ -1,7 +1,6 @@
 <p align="center">
 
-  <h1 align="center" style="margin: 0 auto 0 auto;">C R E A T E</h1>
-  <h5 align="center" style="margin: 0 auto 0 auto;">Native Desktop Application Creator ( Beta )</h5>
+  <h1 align="center" style="margin: 0 auto 0 auto;">Movies Recommendation</h1>
   </p>
   
 ---
@@ -9,78 +8,21 @@
 
 ## 💡 Introduction
 
-<b>CREATE</b> is a console-based tool that lets you create amazing GUI within seconds, It uses Tkinter module alongside ttk themes for making GUI.
-<br>
+Movies Recommendation GUI system based on description and genre
 
-## ☄️  Advantages of <b>CREATE</b>
+## Used models:
 
-1. Easy to use
-2. Pre build theme
-3. Modern GUI
+Tkinter is the Python interface to the Tk GUI toolkit shipped with Python.
 
+Pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool,
+built on top of the Python programming language.
 
-<br>
+NumPy is a Python library used for working with arrays. It also has functions for working in domain of linear algebra, fourier transform, and matrices.
 
+NLTK provides a practical introduction to programming for language processing. Written by the creators of NLTK, it guides the reader through the fundamentals of writing Python programs, working with corpora, categorizing text, analyzing linguistic structure, and more.
 
-## 🦋 Supporting Proxlight Designer
+SKLEARN is machine learning library for the Python. It features various classification, regression and clustering algorithms including support-vector machines, random forests, gradient boosting, k-means and DBSCAN, and is designed to interoperate with the Python numerical and scientific libraries NumPy and SciPy.
 
-Donate us on Gumroad
-
-<a href="https://gum.co/Deadc" target="_blank"><img src="https://assets.website-files.com/609bfbe57ec8f3547d866cd7/609c31b0a526ef442513e8cc_gumroad.svg" alt="Donate on gumroad" width="50px" ></a>
-
-<br>
-
-## 🛠  Installing Proxlight Designer
-
-1. Clone CREATE
-
-```
-git clone https://github.com/Proxlight/Create.git
-```
-
-2. Open CREATE Folder
-```
-cd create
-```
-
-3. Install Requirements
-```
-pip install -r requirement.txt
-```
-
-4. Run CREATE
-```
-python create.py
-```
-
-<br>
-
-## 🔥 Watch Complete Tutorial Here
-
-The instructions contain all the information about installing and using CREATE, along with information for troubleshooting and reporting issues. There is also a video format.
-
-[Visit Youtube Channel](https://www.youtube.com/channel/UCZY5SODGdRzOeD_lHCzPdKg)  
-[Website](https://www.plexusdesigns.cf/)
-___
-<br>
-
-
-
-
-
-## 🎯 Examples
-The possibilities are endless GUI's idea with CREATE.
-
-### Sign up Page
-<img width="467" alt="Example 1" src="https://raw.githubusercontent.com/Proxlight/Create/main/Example1.png">
-
-### URL cutter
-<img width="467" alt="Example 2" src="https://raw.githubusercontent.com/Proxlight/Create/main/Example2.png">
-
-
----
-
-<p align="center">
-
-  <h6 align="center" style="margin: 0 auto 0 auto;">Copyright © Proxlight All Right Reserved 2021</h1>
-  </p>
+## Final result:
+![image](https://user-images.githubusercontent.com/59805646/209466932-d37c20a4-d89b-4b42-9093-d854dc16237b.png)
+![image](https://user-images.githubusercontent.com/59805646/209466937-bd747195-67ea-4811-8b2c-acc995e1df1f.png)
